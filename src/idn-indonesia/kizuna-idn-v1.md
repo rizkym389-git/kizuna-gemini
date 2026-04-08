@@ -19,7 +19,7 @@
 
 | Jenis | Rute | Inggris |
 |-------|------|---------|
-| Opsional | English → Indonesia | [English] → [Indonesian natural, boleh pakai "lah"] |
+| Opsional | English → Indonesia | [English] → [Indonesian natural] |
 
 ### G. 例文 / Contoh & Pemakaian (tabel, baris sesuai level)
 
