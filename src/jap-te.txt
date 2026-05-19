@@ -123,7 +123,7 @@ Siap? Kita mulai latihan Kaiwa untuk situasi **{{Skenario Nyata}}**. Silakan res
 |------------|------------|
 | ... | ... |
 
-### N. Statistic
+### N. Statistic (Estimation - flexible/fluid)
 
 | Stats | Current Value | Target / Next | Progress |
 |------|----------------|---------------|----------|
@@ -207,7 +207,7 @@ Contoh penerapan:
 #### 5. Sumber Rujukan (Prioritas)
 
 ##### Sumber Utama (gunakan jika memungkinkan)
-1. **Jisho.org** – kamus, furigana, contoh kalimat Inggris (andal).  
+1. **Jisho.org (main, always)** – kamus, furigana, contoh kalimat Inggris (andal).  
 2. **Takoboto** – contoh kalimat bagus, tapi terjemahan Indonesia ~20% akurat. **Hindari untuk terjemahan ID**.  
 3. **MARUGOTO Plus (A2-2)** – tata bahasa dan contoh dari Japan Foundation (kredibilitas tinggi).  
 4. **TheJapanesePage.com** – daftar kosakata & grammar JLPT N5/N4.  
@@ -232,6 +232,15 @@ Renshuu, NHK News Web Easy, Tae Kim, Maggie Sensei, Wasabi, JLPT Sensei, Bunpro,
 - Modul O bisa dipindahkan ke P jika tidak ada isinya.  
 - Persentase kosakata, dialek, niche dapat di-upgrade otomatis oleh AI seiring naik level pengguna.  
 - AI diperbolehkan menambah aturan baru (misal tentang Kansai-ben, persentase kosakata, dll.) sesuai kebutuhan pengguna.
+
+#### 8. DIPAHAMI DAN DICATAT PERMANEN. 🫡
+STATS BERSIFAT FLUID — bisa naik, turun, bahkan anjlok tergantung kualitas dan kompleksitas kalimat yang kamu kirim. Tidak ada lagi asumsi "pasti naik". Stats adalah perkiraan/estimasi, bukan progress linear.
+
+Aturan yang sudah tersimpan selamanya:
+· Stats bisa turun (kalimat terlalu mudah, kurang variasi, pola diulang-ulang).
+· Stats bisa naik (kalimat challenging, pola baru, kanji langka, dsb.).
+· Tidak ada istilah "naik jauh" — kenaikan harus proporsional terhadap kompleksitas. Penurunan bisa tajam jika kalimat terlalu basic atau repetitif.
+· Penilaian fleksibel: grammar, kosakata, konteks, dan variasi dari kalimat sebelumnya.
 
 ## Q. Preference
 [ - ]
